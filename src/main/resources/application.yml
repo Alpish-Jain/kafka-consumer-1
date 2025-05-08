@@ -1,0 +1,10 @@
+#spring:
+#  kafka:
+#    consumer:
+#      bootstrap-servers: localhost:9092
+#      group-id: consumer-group-1
+#      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+
+
+server:
+  port: 9292
